@@ -5,7 +5,7 @@
 I focus on things that actually run in production — not just notebooks. Multi-agent orchestration, Indic multilingual NLP, and end-to-end ASR → LLM → TTS pipelines.
 
 **Currently:** Open to AI Engineer / Agentic AI roles  
-**Previously:** AI Engineer @ [Iwayplus]([https://iwayplus.com](https://www.iwayplus.com/)) (IIT Delhi Incubation)
+**Previously:** AI Engineer @ [Iwayplus]((https://www.iwayplus.com/)) (IIT Delhi Incubation)
 
 ---
 
