@@ -14,7 +14,7 @@ I focus on things that actually run in production — not just notebooks. Multi-
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | [**NeuraDesk**](https://github.com/Subh24ai/neuradesk) | Multi-agent IT/HR ticket resolution — 4 LangGraph agents, 93.3% DSPy classifier, A2A protocol | LangGraph · DSPy · FAISS · FastAPI |
-| [**NeuraDesk**](https://github.com/Subh24ai/AgentIQ) | Autonomous multi-agent B2B outreach: research a company, score ICP fit, draft a personalized email, and self-evaluate it — with human-in-the-loop review before anything is sent. | LangGraph · Agentic AI · Supabase · FastAPI |
+| [**AgentIQ**](https://github.com/Subh24ai/AgentIQ) | Autonomous multi-agent B2B outreach: research a company, score ICP fit, draft a personalized email, and self-evaluate it — with human-in-the-loop review before anything is sent. | Agentic AI· LangGraph · Supabase · FastAPI |
 | [**Yojana Sahayak**](https://github.com/Subh24ai/yojana-sahayak-assistant) | Fully offline voice agent for 2,872 Indian govt schemes — zero internet dependency | Whisper · QLoRA Qwen2.5 · MCP · FAISS |
 | [**Voice Banking Agent**](https://github.com/Subh24ai/agentic-voice-banking-agent) | 7-node agentic pipeline — voice biometric auth, 8 banking intents, Hindi/English/Hinglish | Claude API · FastAPI · WebSocket |
 | [**PennyWise**](https://github.com/Subh24ai/pennywise) | LLM cost optimizer — semantic caching + prompt compression, saves up to 70% on API spend | Python · Next.js |
